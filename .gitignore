@@ -1,0 +1,14 @@
+# Unity generated
+Builds/
+Temp/
+Library/
+obj/
+Assets/GoogleVR/
+
+# Visual Studio / MonoDevelop generated
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.userprefs
+.vs/*
